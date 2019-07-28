@@ -1,0 +1,15 @@
+{
+  "name": "jonbride-puppet_204_ssh",
+  "version": "0.1.0",
+  "author": "jonbride",
+  "summary": "Manages SSH",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jonbws/linuxacademy-puppet-ssh",
+  "project_page": "https://github.com/jonbws/linuxacademy-puppet-ssh",
+  "issues_url": "https://github.com/jonbws/linuxacademy-puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
